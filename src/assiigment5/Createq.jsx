@@ -68,7 +68,7 @@ function Createq() {
                        </div>
                         
                         <div>
-                            <h1 className='center-x'>List of Questins</h1>
+                            <h1 className='center-x'>List of Questions</h1>
                             <div>
                                     {/* <QuestionEditDelete questionx="Java is the best language"/>
                                     <QuestionEditDelete questionx="C++ is easy to learn"/>
